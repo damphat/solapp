@@ -1,0 +1,1 @@
+"solc --bin --abi --overwrite -o build --include-path node_modules --base-path .\contracts contracts\Counter.sol contracts\Fantasium.sol"
